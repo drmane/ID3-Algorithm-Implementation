@@ -1,0 +1,14 @@
+soleado,caluroso,alta,falso
+soleado,caluroso,alta,verdad
+nublado,caluroso,alta,falso
+lluvioso,templado,alta,falso
+lluvioso,frio,normal,falso
+lluvioso,frio,normal,verdad
+nublado,frio,normal,verdad
+soleado,templado,alta,falso
+soleado,frio,normal,falso
+lluvioso,templado,normal,falso
+soleado,templado,normal,verdad
+nublado,templado,alta,verdad
+nublado,caluroso,normal,falso
+lluvioso,templado,alta,verdad

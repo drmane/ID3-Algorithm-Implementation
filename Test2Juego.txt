@@ -1,0 +1,2 @@
+lluvioso,templado,alta,verdad,??
+nublado,caluroso,alta,falso,??

@@ -1,0 +1,11 @@
+IMPORTANTE
+##########
+
+Práctica realizada por:
+- Daniel Ruiz Manero
+- Ricardo de la Rosa Vivas
+
+
+Al final de cada fichero (AtributosJuego.txt Juego.txt) debe haber un salto de línea para realizar la lectura correctamente.
+
+Los ficheros de prueba no deben tener ningún salto de línea al final (Test1Juego, Test2Juego, Test3Juego).
